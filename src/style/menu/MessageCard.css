@@ -1,0 +1,27 @@
+.message-card{
+  width: 90%;
+  margin: 10px 15px;
+  height: 150px;
+  box-sizing: border-box;
+  border-radius:  5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+}
+.compeny{
+    float: left;
+    height: 25px;
+    width: 200px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+    padding: 0 5px;
+}
+.card-header{
+  height: 25px;
+  width: 100%;
+}
+.card-content{
+  height: 125px;
+  width: 100%;
+}

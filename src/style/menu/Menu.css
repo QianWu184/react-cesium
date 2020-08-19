@@ -1,0 +1,14 @@
+.menu-tab{
+  height: 100%;
+}
+#menu{
+  height: 90%;
+  width: 260px;
+  position: absolute;
+  top: 5%;
+  left:  2%;
+  background-color: #ffffff;
+  border-radius: 4px ;
+  z-index: 2;
+  box-shadow: 0px 1px 7px 0 rgba(255,255,255, 0.5);
+}

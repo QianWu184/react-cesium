@@ -1,0 +1,20 @@
+.info-list{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.info-detail{
+  margin: 10px 0;
+}
+.info-age{
+  margin: 0 5px;
+}
+.info-stetmen{
+  word-break:break-word;
+  text-indent: 5px;
+}
+.slogan{
+  font-family: sans-serif;
+  font-style: oblique;
+  margin: 40px 0;
+}
